@@ -1,0 +1,40 @@
+:root{
+	--mainColor:#0f0f0f;
+	--secondaryColor:#282828;
+
+	--borderColor:#4b4b4c;
+
+	--mainText:#7fb785;
+	--secondaryText:#bc612f;
+
+	--themeDotBorder:#bc612f;
+
+	--previewBg:#191919;
+	--previewShadow:#000000;
+
+
+	--buttonColor: #4b4b4c;
+
+
+}
+
+
+h1, #settings-note{
+	color: crimson;
+}
+
+a{
+	color: plum !important;
+}
+
+#skills, .thumbnail{
+	border: 1px solid yellow;
+}
+
+.post-preview{
+	border: 1px solid yellow;
+}
+
+#preview-shadow{
+	border: 1px solid yellow;
+}
